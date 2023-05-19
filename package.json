@@ -15,6 +15,7 @@
   "devDependencies": {
     "@antfu/eslint-config": "^0.38.6",
     "@babel/core": "^7.21.8",
+    "@nuxt/devtools": "^0.5.0",
     "@nuxtjs/fontaine": "^0.2.5",
     "@nuxtjs/google-fonts": "^3.0.1",
     "@nuxtjs/i18n": "8.0.0-beta.11",
@@ -32,7 +33,6 @@
     "@tailwindcss/forms": "^0.5.3",
     "@tailwindcss/typography": "^0.5.9",
     "@types/node": "^18",
-    "@vueuse/nuxt": "^10.1.2",
     "autoprefixer": "^10.4.14",
     "babel-loader": "^9.1.2",
     "eslint": "^8.40.0",
@@ -50,6 +50,7 @@
     "vue-loader": "^17.1.1"
   },
   "dependencies": {
+    "@vueuse/nuxt": "^10.1.2",
     "@headlessui/vue": "^1.7.13",
     "@pinia/nuxt": "^0.4.11",
     "axios": "^1.4.0",
