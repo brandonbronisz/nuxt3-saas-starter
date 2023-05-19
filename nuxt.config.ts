@@ -4,6 +4,7 @@ export default defineNuxtConfig({
   imports: {
     dirs: ['./composables', './utils', 'stores'],
   },
+  devtools: true,
   extends: [
     './ui',
     './sites/auth',
