@@ -22,6 +22,13 @@ Make sure to install the dependencies:
 pnpm install
 ```
 
+Start Storybook
+
+```bash
+pnpm storybook
+```
+
+
 ## Development Server
 
 Start the development server on `http://localhost:3000`
@@ -42,12 +49,6 @@ Locally preview production build:
 
 ```bash
 pnpm preview
-```
-
-Start Storybook
-
-```bash
-pnpm storybook
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
